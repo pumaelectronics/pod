@@ -32,7 +32,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/Chifilly/pod.git"
+        "url": "http://github.com/pumaelectronics/pod.git"
     },
     "bin": {
         "pod": "./bin/pod",
