@@ -1,0 +1,21 @@
+{
+    "globals" : {
+        "$"          : true,
+        "alert"      : true,
+        "angular"    : true,
+        "app"        : true,
+        "async"      : true,
+        "moment"     : true,
+        "window"     : true,
+        "$rootScope" : true,
+        "Highcharts" : true,
+        "$filter"    : true,
+        "DOMAINS"    : true,
+        "renderPDF"  : true
+    },
+    "esversion" : 6,
+    "curly"     : true,
+    "forin"     : true,
+    "strict"    : "implied",
+    "node"      : true
+}
